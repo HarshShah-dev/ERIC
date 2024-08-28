@@ -8,7 +8,7 @@ function ComfortScore() {
   return (
     <div className="comfort-score-container">
       <div className="score-container">
-        <h1>Comfort Score</h1>
+        <h1>Thrive Score</h1>
         <div className="gauge-chart">
           <CircularProgressbar
             value={value}
