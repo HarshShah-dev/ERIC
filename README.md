@@ -22,28 +22,20 @@ A React-based web application designed to monitor and control home environment c
 ### Installation and Run 
 
 1. **Clone the repository**:
-   \`\`\`
-   git clone https://github.com/yourusername/home-comfort-dashboard.git
-   cd home-comfort-dashboard
-   \`\`\`
+   
+   `git clone https://github.com/yourusername/home-comfort-dashboard.git`
+   `cd home-comfort-dashboard`
+   
 
 2. **Install dependencies**:
-   \`\`\`
-   npm install
-   \`\`\`
+   `npm install`
    or
-   \`\`\`
-   yarn install
-   \`\`\`
+   `yarn install`
 
 3. **Start the application**:
-   \`\`\`
-   npm start
-   \`\`\`
+   `npm start`
    or
-   \`\`\`
-   yarn start
-   \`\`\`
+   `yarn start`
 
    The application will be available at `http://localhost:3000`.
 
