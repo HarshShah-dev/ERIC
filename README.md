@@ -5,11 +5,11 @@ A React-based web application designed to monitor and control home environment c
 
 ## Features
 
-- **Thermostat Control**: Adjust the temperature with a simple up/down interface.
 - **Comfort Score**: Visual gauge indicating the overall comfort of the home environment.
 - **Environmental Overview**: Overview of environmental metrics like motion, temperature, and comfort score displayed using charts.
+- **Thermostat Control**: Adjust the temperature with a simple up/down interface.
 - **Sidebar Navigation**: Simple and intuitive sidebar for easy navigation across different sections.
-- **Live Data**: The application integrates various data points, presented in an easy-to-understand format through charts.
+- **Detailed Data**: This is real-time sensor data presented in an easy-to-understand format through charts.
 
 ## Getting Started
 
@@ -18,29 +18,29 @@ A React-based web application designed to monitor and control home environment c
 - Node.js
 - npm (Node Package Manager) or yarn
 
-### Installation
+### Installation and Run 
 
 1. **Clone the repository**:
-   \`\`\`bash
+   \`\`\`
    git clone https://github.com/yourusername/home-comfort-dashboard.git
    cd home-comfort-dashboard
    \`\`\`
 
 2. **Install dependencies**:
-   \`\`\`bash
+   \`\`\`
    npm install
    \`\`\`
    or
-   \`\`\`bash
+   \`\`\`
    yarn install
    \`\`\`
 
 3. **Start the application**:
-   \`\`\`bash
+   \`\`\`
    npm start
    \`\`\`
    or
-   \`\`\`bash
+   \`\`\`
    yarn start
    \`\`\`
 
@@ -62,17 +62,6 @@ A React-based web application designed to monitor and control home environment c
 
 The styling is primarily managed through the `App.css` file, which organizes the layout using Flexbox and CSS Grid. Components are styled to maintain a consistent theme across the application, with particular attention to responsiveness and accessibility.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
