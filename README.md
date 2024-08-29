@@ -23,8 +23,8 @@ A React-based web application designed to monitor and control home environment c
 
 1. **Clone the repository**:
    
-   `git clone https://github.com/yourusername/home-comfort-dashboard.git`
-   `cd home-comfort-dashboard`
+- `git clone https://github.com/yourusername/home-comfort-dashboard.git`
+- `cd home-comfort-dashboard`
    
 
 2. **Install dependencies**:
