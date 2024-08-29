@@ -1,5 +1,5 @@
 import React from 'react';
-import ComfortScore from './ComfortScore';
+import ComfortScore from './ThriveScore.js';
 import Thermostat from './Thermostat';
 import Overview from './Overview';
 import TemperatureChart from './TemperatureChart';
