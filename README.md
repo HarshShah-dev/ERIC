@@ -1,5 +1,5 @@
 
-# Home Comfort Dashboard
+# ERIC Web App
 
 A React-based web application designed to monitor and control home environment conditions, including temperature, comfort scores, and security settings.
 
